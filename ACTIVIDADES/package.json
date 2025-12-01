@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "banco": "ts-node src/banco.ts"
+    "banco.ts": "ts-node src/banco.ts",
+    "estudiante.ts": "ts-node src/estudiante.ts",
+    "auto.ts": "ts-node src/auto.ts",
+    "restaurante.ts": "ts-node src/restaurante.ts",
+    "hospital.ts": "ts-node src/hospital.ts"
   },
   "keywords": [],
   "author": "",
